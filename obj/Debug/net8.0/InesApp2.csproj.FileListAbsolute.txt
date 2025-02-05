@@ -1,0 +1,14 @@
+C:\Users\abdulhamiid.oyebo\Desktop\AbdulAfeezPro\InesApp2\bin\Debug\net8.0\InesApp2.exe
+C:\Users\abdulhamiid.oyebo\Desktop\AbdulAfeezPro\InesApp2\bin\Debug\net8.0\InesApp2.deps.json
+C:\Users\abdulhamiid.oyebo\Desktop\AbdulAfeezPro\InesApp2\bin\Debug\net8.0\InesApp2.runtimeconfig.json
+C:\Users\abdulhamiid.oyebo\Desktop\AbdulAfeezPro\InesApp2\bin\Debug\net8.0\InesApp2.dll
+C:\Users\abdulhamiid.oyebo\Desktop\AbdulAfeezPro\InesApp2\bin\Debug\net8.0\InesApp2.pdb
+C:\Users\abdulhamiid.oyebo\Desktop\AbdulAfeezPro\InesApp2\obj\Debug\net8.0\InesApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdulhamiid.oyebo\Desktop\AbdulAfeezPro\InesApp2\obj\Debug\net8.0\InesApp2.AssemblyInfoInputs.cache
+C:\Users\abdulhamiid.oyebo\Desktop\AbdulAfeezPro\InesApp2\obj\Debug\net8.0\InesApp2.AssemblyInfo.cs
+C:\Users\abdulhamiid.oyebo\Desktop\AbdulAfeezPro\InesApp2\obj\Debug\net8.0\InesApp2.csproj.CoreCompileInputs.cache
+C:\Users\abdulhamiid.oyebo\Desktop\AbdulAfeezPro\InesApp2\obj\Debug\net8.0\InesApp2.dll
+C:\Users\abdulhamiid.oyebo\Desktop\AbdulAfeezPro\InesApp2\obj\Debug\net8.0\refint\InesApp2.dll
+C:\Users\abdulhamiid.oyebo\Desktop\AbdulAfeezPro\InesApp2\obj\Debug\net8.0\InesApp2.pdb
+C:\Users\abdulhamiid.oyebo\Desktop\AbdulAfeezPro\InesApp2\obj\Debug\net8.0\InesApp2.genruntimeconfig.cache
+C:\Users\abdulhamiid.oyebo\Desktop\AbdulAfeezPro\InesApp2\obj\Debug\net8.0\ref\InesApp2.dll
